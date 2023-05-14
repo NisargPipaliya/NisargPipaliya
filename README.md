@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, Myself Nisarg Pipaliya</h1>
-=======================================================================================================================================
 
 <h2 align = "center" > A passionate developer from India </h2>
 
