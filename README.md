@@ -7,7 +7,7 @@
 
 
 * ✉️  You can contact me at [nisargpipaliya@gmail.com](mailto:nisargpipaliya@gmail.com)
-* 🧠  I'm learning Deep Learning and Neural Networks
+* 🧠  I'm learning Machine Learning and Deep Learning 
 * 🤝  I'm open to collaborating on interesting projects 
 * ⚡  A Little secret..... i'm batman
 
