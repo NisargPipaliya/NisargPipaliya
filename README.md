@@ -12,7 +12,7 @@
     ⚡  A Little secret..... i'm batman
 <!-- </p> -->
 <br>
-<h3 align='center' > Skills</h3>
+<h3 align='center' > Tech Stack</h3>
 
 
 <p align="center">
