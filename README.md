@@ -12,10 +12,9 @@
     ⚡  A Little secret..... i'm batman
 <!-- </p> -->
 <br>
-<h3 align='center' > Tech Stack</h3>
 
-
-<p align="center">
+<div align="center">
+<h3> Tech Stack</h3>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
@@ -30,29 +29,32 @@
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-</p>
+</div>
+
 <h3> Github Commit Stats</h3>
 
 <a  href="http://www.github.com/NisargPipaliya" align ='center'><img align = "center" src="https://github-readme-streak-stats.herokuapp.com/?user=NisargPipaliya&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+<div>
 <details>
  <summary> Github Stats (Overall) </summary>
 <a href="http://www.github.com/NisargPipaliya"><img src="https://github-readme-stats.vercel.app/api?username=NisargPipaliya&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="NisargPipaliya's GitHub stats" /></a> &nbsp;  
-</details>
 
-
-<details>
-<summary>Github Commit Graph</summary>
- 
-<a href="http://www.github.com/NisargPipaliya"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=NisargPipaliya&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
- </details>
- 
 <details>
 <summary>Top Languages</summary>
 
 <a href="https://github.com/NisargPipaliya" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NisargPipaliya&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
  
 </details>
+    </details>
+</div>
+<!-- 
+<details>
+<summary>Github Commit Graph</summary>
+ 
+<a href="http://www.github.com/NisargPipaliya"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=NisargPipaliya&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+ </details> -->
+ 
 
 ### Socials
 
