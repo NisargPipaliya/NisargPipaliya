@@ -19,6 +19,7 @@
 
 <br>
 
+---
 <div align="center">
 <h3> Tech Stack</h3>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
@@ -57,10 +58,12 @@
 <!-- 
 <details>
 <summary>Github Commit Graph</summary>
+
  
 <a href="http://www.github.com/NisargPipaliya"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=NisargPipaliya&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
  </details> -->
- 
+
+ ---
 <div align = "center">
 <h3>Socials</h3>
 <a href="https://www.github.com/NisargPipaliya" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/glyph-neue/64/FFFFFF/github.png" width="32" height="32" /></a>
@@ -68,7 +71,7 @@
 <a href="https://www.twitter.com/nisarg2pipaliya" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 <a href="https://discord.com/users/Nisarg#2047" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>  <a href="https://hashnode.com/@grasin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@nisargpipaliya2402" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/glyph-neue/64/FFFFFF/medium-logo.png" width="32" height="32" /></a> 
 </div>
-
+<br><br>
 <div>
 <p align="center">
   <a href="https://gist.github.com/NisargPipaliya/03d9d793936a79ccce4d2b25e40824e6">
@@ -77,6 +80,19 @@
 </p>
 </div>
 
+
+---
+<div align="center" >
+<h3>Medium Articles</h3><br>
+<a align="center" target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nisargpipaliya2402/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nisargpipaliya2402/0" alt="Recent Article 0"> 
+<details>
+    <summary> More Articles</summary>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nisargpipaliya2402/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nisargpipaliya2402/1" alt="Recent Article 1"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nisargpipaliya2402/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nisargpipaliya2402/2" alt="Recent Article 2"> 
+    </details>
+</div>
+
+---
 ```python
 me = deep_human_model()
 me.add_property(name:Nisarg)
