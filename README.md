@@ -72,7 +72,7 @@
 <div>
 <p align="center">
   <a href="https://gist.github.com/NisargPipaliya/03d9d793936a79ccce4d2b25e40824e6">
-    <img src="https://gist.githubusercontent.com/NisargPipaliya/03d9d793936a79ccce4d2b25e40824e6/raw/af3da5422b8b5b6419355637099ed6c1f449ac63/Sign%2520My%2520Guest%2520Book.gif" alt="Click here to sign my guestbook!">
+    <img src="https://gist.github.com/NisargPipaliya/ebe3790011819d5c1cbefe574da1cca1/raw/06cdd4f047a590e246d2ec0562ec319b734525d3/Sign%2520My%2520Guest%2520Book.gif" alt="Click here to sign my guestbook!">
   </a>
 </p>
 </div>
