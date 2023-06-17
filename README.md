@@ -84,10 +84,10 @@
 ---
 <div align="center" >
 <h3>Medium Articles</h3><br>
-<a align="center" target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nisargpipaliya2402/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nisargpipaliya2402/0" alt="Recent Article 0"> 
+<a align="center" target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nisargpipaliya2402/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nisargpipaliya2402/1" alt="Recent Article 1"> 
 <details>
     <summary> More Articles</summary>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nisargpipaliya2402/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nisargpipaliya2402/1" alt="Recent Article 1"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nisargpipaliya2402/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nisargpipaliya2402/1" alt="Recent Article 0"> 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nisargpipaliya2402/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nisargpipaliya2402/2" alt="Recent Article 2"> 
     </details>
 </div>
