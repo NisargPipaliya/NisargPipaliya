@@ -59,11 +59,11 @@
 ---
 <div align="center" >
 <h3>Medium Articles</h3><br>
-<a align="center" target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nisargpipaliya2402/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nisargpipaliya2402/0" alt="Recent Article 0"> 
+<a align="center" target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nisargpipaliya2402/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nisargpipaliya2402/2" alt="Recent Article 2"> 
 <details>
     <summary> More Articles</summary>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nisargpipaliya2402/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nisargpipaliya2402/1" alt="Recent Article 1"> 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nisargpipaliya2402/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nisargpipaliya2402/2" alt="Recent Article 2"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nisargpipaliya2402/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nisargpipaliya2402/0" alt="Recent Article 0"> 
     </details>
 </div>
 
@@ -84,14 +84,14 @@
 </details>
     </details>
 </div>
-<!-- 
-<details>
+
+<!--<details>
 <summary>Github Commit Graph</summary>
 
  
 <a href="http://www.github.com/NisargPipaliya"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=NisargPipaliya&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
- </details> -->
-
+ </details>
+-->
 <!--
 ```python
 me = deep_human_model()
