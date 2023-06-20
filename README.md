@@ -66,14 +66,12 @@
 <div align = "center">
     
 ## 🌏Socials
-    
-
 <a href="https://www.github.com/NisargPipaliya" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" /></a>
 <a href="https://www.linkedin.com/in/nisarg-pipaliya-12b078172" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" /></a> 
 <a href="https://www.twitter.com/nisarg2pipaliya" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=twitter"  /></a>
 <a href="https://discord.com/users/Nisarg#2047" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=discord"  /></a>  <a href="https://hashnode.com/@grasin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="48" height="48"  /></a> <a href="http://www.medium.com/@nisargpipaliya2402" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/glyph-neue/64/FFFFFF/medium-logo.png" width="48" height="48"/></a> 
 </div>
-<br><br>
+<br>
 <div>
 <p align="center">
   <a href="https://gist.github.com/NisargPipaliya/03d9d793936a79ccce4d2b25e40824e6">
@@ -91,17 +89,19 @@
  <table align="center">
   <tr>
    <td align="center">
-       <img src ="https://hashnode-blog-cards.souravdey777.vercel.app/api/getHashnodeBlog?url=https://nisargpipaliya.hashnode.dev/intellisec-the-future-of-cybersecurity&large=true&theme=dark">
+      <a href="https://nisargpipaliya.hashnode.dev/"> <img src ="https://hashnode-blog-cards.souravdey777.vercel.app/api/getHashnodeBlog?url=https://nisargpipaliya.hashnode.dev/intellisec-the-future-of-cybersecurity&large=true&theme=dark"></a>
     </td>
     <td align="center">
-      <img alt="getting started with opensource" src="https://hashnode-blog-cards.souravdey777.vercel.app/api/getHashnodeBlog?url=https://nisargpipaliya.hashnode.dev/unleashing-the-superheroes-of-cybersecurity-microsofts-latest-innovations&large=true&theme=dark"  >
+      <a href="https://nisargpipaliya.hashnode.dev/"><img alt="getting started with opensource" src="https://hashnode-blog-cards.souravdey777.vercel.app/api/getHashnodeBlog?url=https://nisargpipaliya.hashnode.dev/unleashing-the-superheroes-of-cybersecurity-microsofts-latest-innovations&large=true&theme=dark"  ></a>
     </td>
   </tr>
 </table>     
 </div>
 
  <details>
-   <summary> 💖More Articles</summary><a align="center" target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nisargpipaliya2402/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nisargpipaliya2402/2" alt="Recent Article 2"> 
+   <summary> 💖More Articles</summary>
+<a align="center" target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nisargpipaliya2402/2">
+<img src="https://github-readme-medium-recent-article.vercel.app/medium/@nisargpipaliya2402/2" alt="Recent Article 2"> </a>
     </details>
 </div>
 
