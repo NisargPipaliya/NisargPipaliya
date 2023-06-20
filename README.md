@@ -21,8 +21,11 @@
 
 ---
 <div align="center">
-    
+<details>
+    <summary>
+        
 ## ⚙️Tech Stack
+</summary>
 
 ### 🚀 Languages
 
@@ -43,7 +46,7 @@
 <a href="https://www.github.com/NisargPipaliya" target="_blank" rel="noreferrer"><img width="48" height="48" src="https://img.icons8.com/fluency/48/canva.png" alt="canva"/></a>
 <a href="https://www.github.com/NisargPipaliya" target="_blank" rel="noreferrer"><img width="48" height="48" src="https://img.icons8.com/fluency/48/000000/virtualbox--v2.png" alt="virtualbox--v2"/></a>
 
-
+</details>
 <!--<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
@@ -58,6 +61,7 @@
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 </div>
 -->
+
  ---
 <div align = "center">
     
@@ -82,12 +86,22 @@
 ---
 <div align="center" >
     
-## ✒️Medium Articles<br>
-<a align="center" target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nisargpipaliya2402/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nisargpipaliya2402/2" alt="Recent Article 2"> 
-<details>
-    <summary> 💖More Articles</summary>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nisargpipaliya2402/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nisargpipaliya2402/1" alt="Recent Article 1"> 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nisargpipaliya2402/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nisargpipaliya2402/0" alt="Recent Article 0"> 
+## ✒️Articles<br>
+ <div>
+ <table align="center">
+  <tr>
+   <td align="center">
+       <img src ="https://hashnode-blog-cards.souravdey777.vercel.app/api/getHashnodeBlog?url=https://nisargpipaliya.hashnode.dev/intellisec-the-future-of-cybersecurity&large=true&theme=dark">
+    </td>
+    <td align="center">
+      <img alt="getting started with opensource" src="https://hashnode-blog-cards.souravdey777.vercel.app/api/getHashnodeBlog?url=https://nisargpipaliya.hashnode.dev/unleashing-the-superheroes-of-cybersecurity-microsofts-latest-innovations&large=true&theme=dark"  >
+    </td>
+  </tr>
+</table>     
+</div>
+
+ <details>
+   <summary> 💖More Articles</summary><a align="center" target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nisargpipaliya2402/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nisargpipaliya2402/2" alt="Recent Article 2"> 
     </details>
 </div>
 
