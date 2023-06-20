@@ -168,4 +168,9 @@ me.add_projects({
       <td><a href="https://github.com/Kevin0403"><img src="https://avatars.githubusercontent.com/u/96529851?v=4" width="100" height="100"></a> </td>
      <td><a href="https://github.com/sahilsapariya"><img src="https://avatars.githubusercontent.com/u/96529526?v=4" width="100" height="100"></a> </td>
      <td><a href="https://github.com/mihirh19"><img src="https://avatars.githubusercontent.com/u/128199131?v=4" width="100" height="100"></a> </td>
-     </tr></table>
+     </tr>
+ <tr>
+     <td><a href="https://github.com/Kevin0403" >Kevin Sangani</a></td>
+     <td><a href="https://github.com/sahilsapariya">Sahil Sapariya</a></td>
+     <td><a href="https://github.com/mihirh19">Mihir Hadvani</a></td>
+ </tr></table>
