@@ -86,7 +86,7 @@
     
 ## ✒️Articles<br>
  <div>
- <table align="center">
+<!--  <table align="center">
   <tr>
    <td align="center">
       <a href="https://nisargpipaliya.hashnode.dev/"> <img src ="https://hashnode-blog-cards.souravdey777.vercel.app/api/getHashnodeBlog?url=https://nisargpipaliya.hashnode.dev/intellisec-the-future-of-cybersecurity&large=true&theme=dark"></a>
@@ -95,13 +95,17 @@
       <a href="https://nisargpipaliya.hashnode.dev/"><img alt="getting started with opensource" src="https://hashnode-blog-cards.souravdey777.vercel.app/api/getHashnodeBlog?url=https://nisargpipaliya.hashnode.dev/unleashing-the-superheroes-of-cybersecurity-microsofts-latest-innovations&large=true&theme=dark"  ></a>
     </td>
   </tr>
-</table>     
+</table>      -->
+     <a align="center" target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nisargpipaliya2402/2">
+<img src="https://github-readme-medium-recent-article.vercel.app/medium/@nisargpipaliya2402/2" alt="Recent Article 2"> 
 </div>
 
  <details>
    <summary> 💖More Articles</summary>
-<a align="center" target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nisargpipaliya2402/2">
-<img src="https://github-readme-medium-recent-article.vercel.app/medium/@nisargpipaliya2402/2" alt="Recent Article 2"> </a>
+<a align="center" target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nisargpipaliya2402/1">
+<img src="https://github-readme-medium-recent-article.vercel.app/medium/@nisargpipaliya2402/1" alt="Recent Article 1"> </a>
+     <a align="center" target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nisargpipaliya2402/0">
+<img src="https://github-readme-medium-recent-article.vercel.app/medium/@nisargpipaliya2402/0" alt="Recent Article 0"> 
     </details>
 </div>
 
