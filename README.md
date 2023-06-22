@@ -120,12 +120,16 @@
      
 ## 📊Github Commit Stats 
 </summary>
-    <a  href="http://www.github.com/NisargPipaliya" align ='center'><img align = "center" src="https://github-readme-streak-stats.herokuapp.com/?user=NisargPipaliya&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-<br><br><br>
-    
+<!--     <a  href="http://www.github.com/NisargPipaliya" align ='center'><img align = "center" src="https://github-readme-streak-stats.herokuapp.com/?user=NisargPipaliya&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> -->
+<!-- <br><br><br> -->
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NisargPipaliya&theme=dark"><br>
+<!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NisargPipaliya&theme=dark"> -->
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NisargPipaliya&theme=dark"> &nbsp; &nbsp;
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NisargPipaliya&theme=dark">
+<!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NisargPipaliya&theme=dark&utcOffset=5.30"> -->
 <!--[![Nisarg's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NisargPipaliya&bg_color=000000&color=d1f6ff&line=39a9fe&point=ffffff&area=true&hide_border=true)](https://github.com/NisargPipaliya)-->
-## 🥇Top Languages
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NisargPipaliya&theme=dark">
+<!-- ## 🥇Top Languages
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NisargPipaliya&theme=dark"> -->
 <!--   <br><br>  
 <a href="http://www.github.com/NisargPipaliya"><img src="https://github-readme-stats.vercel.app/api?username=NisargPipaliya&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="NisargPipaliya's GitHub stats" /></a> &nbsp;  
 
