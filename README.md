@@ -1,5 +1,8 @@
 <h1 align="center" style="color:cyan;" >Hi 👋, Myself Nisarg Pipaliya</h1>
 
+<!--<div align ="center">
+    
+[![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com)</div> -->
 
 <h2 align = "center" > Learning the tools that will change the world. </h2>
 <h3 align="center"> <img src="https://user-images.githubusercontent.com/63473496/153487849-4f094c16-d21c-463e-9971-98a8af7ba372.png" width="30" height="30"> GSSOC'23 Contributor</h3>
