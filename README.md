@@ -168,7 +168,7 @@ me.add_projects({
     })
 ```-->
 
----
+<!---
 <details>
 <summary><h1> 🤖Squad </h1></summary>
  <table>
@@ -181,4 +181,4 @@ me.add_projects({
      <td><a href="https://github.com/Kevin0403" >Kevin Sangani</a></td>
      <td><a href="https://github.com/sahilsapariya">Sahil Sapariya</a></td>
      <td><a href="https://github.com/mihirh19">Mihir Hadvani</a></td>
- </tr></table></details>
+ </tr></table></details>--->
