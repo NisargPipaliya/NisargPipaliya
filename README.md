@@ -1,8 +1,5 @@
 <h1 align="center" style="color:cyan;" >Hi 👋, Myself Nisarg Pipaliya</h1>
 
-<!--<div align ="center">
-    
-[![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com)</div> -->
 
 <h2 align = "center" > Learning the tools that will change the world. </h2>
 <h3 align="center"> <img src="https://user-images.githubusercontent.com/63473496/153487849-4f094c16-d21c-463e-9971-98a8af7ba372.png" width="30" height="30"> GSSOC'23 Contributor</h3>
@@ -50,20 +47,6 @@
 <a href="https://www.github.com/NisargPipaliya" target="_blank" rel="noreferrer"><img width="48" height="48" src="https://img.icons8.com/fluency/48/000000/virtualbox--v2.png" alt="virtualbox--v2"/></a>
 
 </details>
-<!--<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-</div>
--->
 
  ---
 <div align = "center">
@@ -89,16 +72,6 @@
     
 ## ✒️Articles<br>
  <div>
-<!--  <table align="center">
-  <tr>
-   <td align="center">
-      <a href="https://nisargpipaliya.hashnode.dev/"> <img src ="https://hashnode-blog-cards.souravdey777.vercel.app/api/getHashnodeBlog?url=https://nisargpipaliya.hashnode.dev/intellisec-the-future-of-cybersecurity&large=true&theme=dark"></a>
-    </td>
-    <td align="center">
-      <a href="https://nisargpipaliya.hashnode.dev/"><img alt="getting started with opensource" src="https://hashnode-blog-cards.souravdey777.vercel.app/api/getHashnodeBlog?url=https://nisargpipaliya.hashnode.dev/unleashing-the-superheroes-of-cybersecurity-microsofts-latest-innovations&large=true&theme=dark"  ></a>
-    </td>
-  </tr>
-</table>      -->
      <a align="center" target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nisargpipaliya2402/2">
 <img src="https://github-readme-medium-recent-article.vercel.app/medium/@nisargpipaliya2402/2" alt="Recent Article 2"> 
 </div>
@@ -123,27 +96,28 @@
 <!--     <a  href="http://www.github.com/NisargPipaliya" align ='center'><img align = "center" src="https://github-readme-streak-stats.herokuapp.com/?user=NisargPipaliya&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> -->
 <!-- <br><br><br> -->
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NisargPipaliya&theme=dark"><br>
-<!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NisargPipaliya&theme=dark"> -->
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NisargPipaliya&theme=dark"> &nbsp; &nbsp;
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NisargPipaliya&theme=dark">
+<!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NisargPipaliya&theme=dark"> -->
 <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NisargPipaliya&theme=dark&utcOffset=5.30"> -->
 <!--[![Nisarg's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NisargPipaliya&bg_color=000000&color=d1f6ff&line=39a9fe&point=ffffff&area=true&hide_border=true)](https://github.com/NisargPipaliya)-->
 <!-- ## 🥇Top Languages
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NisargPipaliya&theme=dark"> -->
 <!--   <br><br>  
 <a href="http://www.github.com/NisargPipaliya"><img src="https://github-readme-stats.vercel.app/api?username=NisargPipaliya&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="NisargPipaliya's GitHub stats" /></a> &nbsp;  
-
 <details>
 <summary>
-    
 ## 🥇Top Languages
 </summary>
-
 <a href="https://github.com/NisargPipaliya" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NisargPipaliya&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
- 
 </details>
-    </details> -->
+    </details>
 </div>
+-->
+
+<!--<div align ="center">
+    
+[![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com)</div> -->
 
 <!--<details>
 <summary>Github Commit Graph</summary>
@@ -168,17 +142,3 @@ me.add_projects({
     })
 ```-->
 
-<!---
-<details>
-<summary><h1> 🤖Squad </h1></summary>
- <table>
-     <tr>
-      <td><a href="https://github.com/Kevin0403"><img src="https://avatars.githubusercontent.com/u/96529851?v=4" width="100" height="100"></a> </td>
-     <td><a href="https://github.com/sahilsapariya"><img src="https://avatars.githubusercontent.com/u/96529526?v=4" width="100" height="100"></a> </td>
-     <td><a href="https://github.com/mihirh19"><img src="https://avatars.githubusercontent.com/u/128199131?v=4" width="100" height="100"></a> </td>
-     </tr>
- <tr>
-     <td><a href="https://github.com/Kevin0403" >Kevin Sangani</a></td>
-     <td><a href="https://github.com/sahilsapariya">Sahil Sapariya</a></td>
-     <td><a href="https://github.com/mihirh19">Mihir Hadvani</a></td>
- </tr></table></details>--->
