@@ -1,4 +1,4 @@
-<h1 align="center" style="color:cyan;" >Hi 👋, Myself Nisarg Pipaliya</h1>
+<h1 align="center" >Hi 👋, Myself Nisarg Pipaliya</h1>
 
 
 <h2 align = "center" > Learning the tools that will change the world. </h2>
