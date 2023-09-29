@@ -8,9 +8,10 @@
 <br><p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=nisargpipaliya&label=Profile%20views&color=0e75b6&style=flat" alt="nisargpipaliya" /> </p> -->
 
 <div align = "center" width="200"><h3>
-<pre>
+<pre align="left">
 
-🧠  I'm learning Machine Learning and Deep Learning 
+🧠  I'm at intermediate level in  Machine Learning and Deep Learning 
+🧠  Currently, Learning Cloud ☁️
 🤝  I'm open to collaborating on ML/DL/NLP projects 
 ✉️  You can contact me at [nisargpipaliya@gmail.com](mailto:nisargpipaliya@gmail.com)
 ⚡  A Little secret..... i'm batman
