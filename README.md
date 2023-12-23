@@ -11,8 +11,8 @@
 <pre align="left">
 
 🧠  I'm at intermediate level in  Machine Learning and Deep Learning 
-🧠  Currently, Learning Cloud ☁️
-🤝  I'm open to collaborating on ML/DL/NLP projects 
+🧠  Currently, Learning Langchain ☁️
+🤝  I'm open to collaborating on ML/DL/NLP/Cloud projects 
 ✉️  You can contact me at [nisargpipaliya@gmail.com](mailto:nisargpipaliya@gmail.com)
 ⚡  A Little secret..... i'm batman
 </pre>
